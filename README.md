@@ -1,4 +1,4 @@
-## Hi there 👋
+## Product Leader turned AI Engineer
 
 <!--
 **lelemilind/lelemilind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
